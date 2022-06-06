@@ -118,3 +118,19 @@ p {
 .carousel-item{
   padding: 7% 15%;
 }
+
+.btn-block{
+  /* display: inline-block; */
+  width: 100%;
+}
+
+/* pricing */
+
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+}
